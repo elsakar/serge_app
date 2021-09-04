@@ -1,1 +1,3 @@
-# serge_app
+# maven-project
+
+Simple Maven Project
